@@ -1,0 +1,10 @@
+*.ipynb text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+data/manifest.csv text eol=crlf whitespace=cr-at-eol
+data/processed/sample_metadata.csv text eol=crlf whitespace=cr-at-eol
+data/raw/biochemistry/*.csv text eol=crlf whitespace=cr-at-eol
+data/raw/integrated/2610_all_data.csv text eol=lf
+notebooks/figure_inventory.csv text eol=crlf whitespace=cr-at-eol
+notebooks/utils/statutil/multivariate_test/t_integration.py text eol=crlf whitespace=cr-at-eol
+

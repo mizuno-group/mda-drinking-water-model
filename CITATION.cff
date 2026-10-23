@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite it using the citation metadata provided here."
+title: "MDA drinking-water model analysis"
+type: software
+authors:
+  - family-names: Iwasaka
+    given-names: Takumi
+    website: "https://github.com/T-IWASAKA"
+  - family-names: Mizuno
+    given-names: Tadahaya
+    website: "https://github.com/tadahayamiz"
+contact:
+  - family-names: Mizuno
+    given-names: Tadahaya
+    email: "tadahaya@gmail.com"
+    website: "https://github.com/tadahayamiz"
+repository-code: "https://github.com/mizuno-group/mda-drinking-water-model"
+license: MIT
