@@ -1,0 +1,14 @@
+*.ipynb text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+data/manifest.csv -text whitespace=cr-at-eol
+data/processed/sample_metadata.csv -text whitespace=cr-at-eol
+data/raw/biochemistry/240111_DrinkingWaterModel_rawdata_v6.csv -text whitespace=cr-at-eol
+data/raw/biochemistry/drink_TAA_MDA_chronic.csv -text whitespace=cr-at-eol
+data/raw/integrated/2610_all_data.csv text eol=lf
+notebooks/figure_inventory.csv -text whitespace=cr-at-eol
+notebooks/utils/statutil/multivariate_test/__init__.py -text whitespace=cr-at-eol
+notebooks/utils/statutil/multivariate_test/t_integration.py -text whitespace=cr-at-eol
+notebooks/utils/statutil/single_test/__init__.py -text whitespace=cr-at-eol
+notebooks/utils/statutil/single_test/rankproduct.py -text whitespace=cr-at-eol
+
